@@ -1,5 +1,5 @@
 # waga
-Skrypt to odczytu wagi, w tym przypadku to model: EC-TSC 60
+Skrypt do odczytu wagi, w tym przypadku to model: EC-TSC 60
 
 # Połączenie
 RS232 - null modem 
